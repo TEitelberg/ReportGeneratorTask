@@ -2,6 +2,8 @@
 
 SSIS Task for SQL Server 2012 - 2017 to render SSRS Reports or to render local reports from a recordset data source.
 
+Latest Release: [ReportGeneratorTask 1.85](https://ssiswp.blob.core.windows.net/downloads/ReportGeneratorTask.msi) (2,59 MB)
+
 Functions:
 
 * Render local reports (recordset)
