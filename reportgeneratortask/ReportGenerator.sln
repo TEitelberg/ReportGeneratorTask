@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSISComponents.ReportGeneratorTask 2012", "SSISComponents.ReportGeneratorTask 2012.csproj", "{7E218221-67D6-428D-BE5F-F87199C2BA72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSISComponents.ReportGeneratorTask 2008", "SSISComponents.ReportGeneratorTask 2008.csproj", "{45885BEC-FD7A-43BC-AFFD-0A0DE1CF7623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSISComponents.ReportGeneratorTask 2014", "SSISComponents.ReportGeneratorTask 2014.csproj", "{F80FD28C-742F-4A06-BDB0-2D37746AECF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSISComponents.ReportGeneratorTask 2016", "SSISComponents.ReportGeneratorTask 2016.csproj", "{034FFBDA-1AE8-4A0E-A503-CBF988DC78DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSISComponents.ReportGeneratorTask 2017", "SSISComponents.ReportGeneratorTask 2017.csproj", "{011882C2-F6D2-4FFF-A886-38A62955F762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E218221-67D6-428D-BE5F-F87199C2BA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E218221-67D6-428D-BE5F-F87199C2BA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E218221-67D6-428D-BE5F-F87199C2BA72}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7E218221-67D6-428D-BE5F-F87199C2BA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E218221-67D6-428D-BE5F-F87199C2BA72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45885BEC-FD7A-43BC-AFFD-0A0DE1CF7623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45885BEC-FD7A-43BC-AFFD-0A0DE1CF7623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80FD28C-742F-4A06-BDB0-2D37746AECF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80FD28C-742F-4A06-BDB0-2D37746AECF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80FD28C-742F-4A06-BDB0-2D37746AECF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80FD28C-742F-4A06-BDB0-2D37746AECF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034FFBDA-1AE8-4A0E-A503-CBF988DC78DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034FFBDA-1AE8-4A0E-A503-CBF988DC78DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034FFBDA-1AE8-4A0E-A503-CBF988DC78DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034FFBDA-1AE8-4A0E-A503-CBF988DC78DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011882C2-F6D2-4FFF-A886-38A62955F762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011882C2-F6D2-4FFF-A886-38A62955F762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011882C2-F6D2-4FFF-A886-38A62955F762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011882C2-F6D2-4FFF-A886-38A62955F762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14BF2200-9B48-4C69-8BCC-FBBEC0C39682}
+	EndGlobalSection
+EndGlobal

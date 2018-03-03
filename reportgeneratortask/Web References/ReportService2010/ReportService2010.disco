@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://sp01/_vti_bin/ReportServer/ReportService2010.asmx?wsdl" docRef="http://sp01/_vti_bin/ReportServer/ReportService2010.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://sp01/_vti_bin/ReportServer/ReportService2010.asmx" xmlns:q1="http://schemas.microsoft.com/sqlserver/reporting/2010/03/01/ReportServer" binding="q1:ReportingService2010Soap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://sp01/_vti_bin/ReportServer/ReportService2010.asmx" xmlns:q2="http://schemas.microsoft.com/sqlserver/reporting/2010/03/01/ReportServer" binding="q2:ReportingService2010Soap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

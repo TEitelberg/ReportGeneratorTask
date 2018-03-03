@@ -1,0 +1,5 @@
+path "C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\NETFX 4.0 Tools"
+del "C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Tasks\SSISComponents.DTS.Tasks.ReportGeneratorTask.dll"
+copy "C:\Projects\ReportGenerator\reportgeneratortask\bin\Debug\SSISComponents.DTS.Tasks.ReportGeneratorTask.dll" "C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Tasks" /Y
+gacutil -u SSISComponents.DTS.Tasks.ReportGeneratorTask
+gacutil -i "C:\Projects\ReportGenerator\reportgeneratortask\bin\Debug\SSISComponents.DTS.Tasks.ReportGeneratorTask.dll"
