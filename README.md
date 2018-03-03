@@ -26,5 +26,5 @@ Functions:
 
 To connect to a <b>SharePoint Server</b>, use the following URL:
 
-http:/<YOUR SERVER>/_vti_bin/ReportServer
+http://<YOUR SERVER>/_vti_bin/ReportServer
   
